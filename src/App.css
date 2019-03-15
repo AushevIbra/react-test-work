@@ -1,0 +1,30 @@
+.table {
+  width: 800px;
+  height: auto;
+  margin: 0 auto;
+}
+.red-line {
+  background: #e34444;
+  color: #fff;
+  padding: 15px;
+}
+.red-line > a {
+  border-radius: 15px;
+  background: #fff;
+  padding: 10px;
+  border: none;
+}
+.red-line > span {
+  background: #000;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+
+.gray-line {
+  background: #3d3b3d;
+  color: #fff;
+  height: 40px;
+  vertical-align: middle;
+}

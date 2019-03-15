@@ -1,0 +1,11 @@
+.box {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border: solid 1px #deb559;
+    color: #deb559;
+    font-weight: bold;
+}
+.col-md-4 {
+    display: flex;
+}
